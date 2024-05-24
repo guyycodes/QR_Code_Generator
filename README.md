@@ -44,7 +44,7 @@ To start the development server with hot module replacement (HMR), run:
 npm run dev
 ```
 
-Open your browser and visit `http://localhost:3000` to see the app in action.
+Open your browser and visit `http://localhost:5173` to see the app in action.
 
 ### Building for Production
 
