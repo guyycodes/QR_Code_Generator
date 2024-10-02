@@ -15,9 +15,9 @@ export default defineConfig({
         theme_color: '#ffffff',
         background_color: '#ffffff',
         display: 'standalone',
-        start_url: '/FontSVGconverter/', // start URL for GitHub Pages
-        id: '/FontSVGconverter/', //  a consistent ID for the app
-        scope: '/FontSVGconverter/', // the scope to restrict what URLs are considered part of the app
+        start_url: '/QRCodeGenerator/', // start URL for GitHub Pages
+        id: '/QRCodeGenerator/', //  a consistent ID for the app
+        scope: '/QRCodeGenerator/', // the scope to restrict what URLs are considered part of the app
         icons: [
           // Include square icons as required by most devices
           {
@@ -56,6 +56,6 @@ export default defineConfig({
   ],
   build: {
     outDir: 'dist', // Default output directory
-    base: '/FontSVGconverter/', // Base public path set to match the GitHub repository name
+    base: '/QRCodeGenerator/', // Base public path set to match the GitHub repository name
   },
 });
