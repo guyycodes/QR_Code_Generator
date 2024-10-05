@@ -31,7 +31,7 @@ export const LandingPage = () => {
           <Link href="https://www.linkedin.com/in/guymorganb" isExternal mr={4}>
             <Icon as={FaLinkedin} boxSize={6} />
           </Link>
-          <Link href="https://www.instagram.com/guyycodes" isExternal mr={4}>
+          <Link href="https://www.instagram.com/guycodesio/" isExternal mr={4}>
             <Icon as={FaInstagram} boxSize={6} />
           </Link>
           <Link href="https://www.threads.net/@guyycodes" isExternal mr={4}>
@@ -40,7 +40,7 @@ export const LandingPage = () => {
           <Link href="https://www.guymorganb.com" isExternal mr={4}>
             guymorganb.com
           </Link>
-          <Link href="https://www.facebook.com/profile.php?id=61558757112366" isExternal mr={4}>
+          <Link href="https://www.facebook.com/guycodesio/" isExternal mr={4}>
             <Icon as={FaFacebook} boxSize={6} />
           </Link>
           <Link href="https://t.me/guyycodes" isExternal>
